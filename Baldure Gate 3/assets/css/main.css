@@ -1,0 +1,19 @@
+
+@font-face {
+    font-family: "roboto Bold";
+    src: url(../font/Roboto/static/Roboto-Bold.ttf);
+}
+
+@font-face {
+    font-family: "roboto regular";
+    src: url(../font/Roboto/static/Roboto-Regular.ttf);
+}
+
+body {
+    font-family: "roboto regular",sans-serif;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    font-size: 1rem;
+    margin: 0;
+}
+
